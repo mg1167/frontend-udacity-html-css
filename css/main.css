@@ -1,0 +1,25 @@
+body{
+	font-family: Verdana, sans-serif;
+}
+h1{
+	color: #666;
+}
+h2{
+	color: #f07c17;
+}
+p{
+	line-height: 2em;
+}
+li{
+	line-height: 2em;
+}
+.box{
+	border-color: #ccc;
+	border-width: 1px;
+	border-style: solid;
+}
+img{
+	width: 100%;
+}
+
+/*P@ssw0rd1*
