@@ -7,4 +7,4 @@ Complete Udacity's course HTML &amp; CSS final project.
 - Make a pull request to cognits when you're don
 
 ## Visit my project here:
-- https://github.com/mg1167/frontend-udacity-html-css.git
+- http://mg1167.github.io/frontend-udacity-html-css. 
